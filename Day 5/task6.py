@@ -1,4 +1,4 @@
-# Task 5: Small Challenge
+# Task 6: Small Challenge
 # Build a Student Marks Analyzer
 # Ask for 5 marks, store in list, print average, max, min
 
